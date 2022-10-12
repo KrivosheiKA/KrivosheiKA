@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Krivoshei Kirill Andreevish
 - 👀 I’m interested in mobile dev
-- 🌱 I’m currently learning Belarusian state university
+- 🌱 I’m currently learning in Belarusian state university
 - 💞️ I’m looking to collaborate 
 - 📫 Reach me on e-mail fjjffgtrfjjffgh@gmail.com
 
